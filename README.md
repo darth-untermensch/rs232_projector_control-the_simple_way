@@ -4,10 +4,10 @@ Over the past week or so I've been looking at ways to automate my projector's po
 My media setup:
 - BENQ W1070 projector
 - Pi400 running libreELEC
-  -- StarTech ICUSB232FTN USB to Null-modem RS232 adaptor (yes, I know the Pi has RS232 on board. This seemed simpler and easier)
-  -- xBox 360 controller (USB)
-  -- Matias Tactile Pro (good key feel, built-in 3-port USB hub)
-  -- 3dConnexion CadMouse I rescued from the office's "f_ck it" bucket
+- StarTech ICUSB232FTN USB to Null-modem RS232 adaptor (yes, I know the Pi has RS232 on board. This seemed simpler and easier)
+- xBox 360 controller (USB)
+- Matias Tactile Pro (good key feel, built-in 3-port USB hub)
+- 3dConnexion CadMouse I rescued from the office's "f_ck it" bucket
 - Focusrite Scarlett 2i2 (rev. 1) audio interface
 - '90s era component stereo, takes line-level input from the 2i2
 
