@@ -13,6 +13,6 @@ My media setup:
 
 The goal: Power the projector on and off with the Pi
 
-The scripts in kodi/storage/.config/ follow the recommended template from the wiki with the addition of commands to switch BENQ projectors on and off via a USB RS232 interface. I've ignored projector feedback for now (it will report its power status, for instance), seemed like a pain to do in shell script. If you're interested in doing more, see w1070_rs232.csv for the list of accepted serial commands. I lifted them straight out of BENQ documentation and I imagine that's a complete list potentially applicable to all BENQ projectors. The "Support" column is specific to the W1070, your model may well vary, but I expect the power on and off commands will be the same for all BENQ projectors.
+The scripts in kodi/storage/.config/ follow the recommended template from the libreELEC wiki with the addition of commands to switch BENQ projectors on and off via a USB RS232 interface. I've ignored projector feedback for now (it will report its power status, for instance), seemed like a pain to do in shell script. If you're interested in doing more, see w1070_rs232.csv for the list of accepted serial commands. I lifted them straight out of BENQ documentation and I imagine that's a complete list potentially applicable to all BENQ projectors. The "Support" column is specific to the W1070, your model may well vary, but I expect the power on and off commands will be the same for all BENQ projectors.
 
 Enjoy!
